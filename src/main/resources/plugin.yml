@@ -1,0 +1,24 @@
+name: BuildSpawner
+version: '${version}'
+main: de.buildspawner.BuildSpawnerPlugin
+api-version: '26.1'
+author: BuildSpawner
+description: Platziere fertige Gebäude (Piraten, Cozy, Modern, Wild West ...) und eigene Schematics per Item.
+commands:
+  build:
+    description: Öffnet das Build-Menü
+    usage: /build [undo|schem|bind|give|reload]
+    aliases: [builds, bs]
+permissions:
+  buildspawner.use:
+    description: Menü öffnen und Gebäude-Items nehmen
+    default: true
+  buildspawner.place:
+    description: Gebäude-Items platzieren
+    default: true
+  buildspawner.schematics:
+    description: Eigene Schematics nutzen und an Items binden
+    default: op
+  buildspawner.admin:
+    description: Reload und give
+    default: op

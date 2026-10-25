@@ -1,0 +1,16 @@
+# Wie viele Blöcke pro Tick gesetzt werden (kleiner = weniger Lag, langsamer)
+max-blocks-per-tick: 3000
+# Maximale Größe (Volumen) einer Schematic
+max-blocks: 200000
+# true = Luft in der Schematic wird mitgesetzt (räumt Bäume/Gras im Bauplatz weg)
+paste-air: true
+# Wie viele Platzierungen pro Spieler rückgängig gemacht werden können
+undo-steps: 5
+# Gebäude-Items werden beim Platzieren verbraucht (nicht im Kreativmodus)
+consume-item: true
+# Item-Material für Schematic-Items aus dem Menü
+schematic-item: PAPER
+# Weitere Ordner mit .schem-Dateien (WorldEdit/FAWE-Ordner werden automatisch gefunden)
+extra-schematic-folders: []
+# Welten, in denen nicht platziert werden darf
+disabled-worlds: []
