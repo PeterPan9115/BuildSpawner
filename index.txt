@@ -1,0 +1,137 @@
+C|pirate|Piraten|DARK_OAK_BOAT|<#a0522d>|Dunkles Holz, Hafen und Schiffe
+B|pirate|house_small|Piratenhütte|Kleines Haus aus dunklem Holz|DARK_OAK_DOOR|9|15|9|3
+B|pirate|house_shack|Strandhütte|Kompakte Hütte mit Veranda|SPRUCE_DOOR|9|13|13|3
+B|pirate|house_medium|Seemannshaus|Zweistöckiges Wohnhaus mit Balkon|DARK_OAK_STAIRS|11|17|10|3
+B|pirate|house_captain|Kapitänshaus|Großes Haus mit Veranda und Balkon|DARK_OAK_PLANKS|13|18|13|3
+B|pirate|house_row|Hafenhaus|Schmales hohes Haus für die Hafenzeile|SPRUCE_STAIRS|9|22|11|3
+B|pirate|tavern|Piratenschenke|Große Taverne mit Tresen und Zimmern|BARREL|15|18|13|3
+B|pirate|tavern_small|Hafenkneipe|Kleine Kneipe am Kai|COOKED_COD|13|17|12|3
+B|pirate|town_hall|Rathaus|Rathaus mit Glockenturm und Freitreppe|BELL|17|21|17|3
+B|pirate|smithy|Waffenschmiede|Schmiede mit Esse, Amboss und offenem Anbau|ANVIL|16|16|9|3
+B|pirate|shop|Kaufmannsladen|Laden mit Markise|EMERALD|11|13|10|3
+B|pirate|warehouse|Lagerhaus|Großes Lager für Fracht und Fässer|CHEST|13|17|15|3
+B|pirate|harbor_master|Hafenmeisterei|Büro mit Signalmast|SPYGLASS|11|18|12|3
+B|pirate|jail|Gefängnis|Zellen mit Eisengittern|IRON_BARS|11|13|9|3
+B|pirate|treasure_hut|Schatzhütte|Versteck voller Truhen|GOLD_INGOT|9|13|9|3
+B|pirate|fort|Kanonenfort|Wehrturm mit Kanonenplattform|DISPENSER|9|18|9|3
+B|pirate|lighthouse|Leuchtturm|Rot-weißer Leuchtturm|LANTERN|9|28|9|3
+B|pirate|watchtower|Ausguck|Hoher Holzturm mit Plattform|LADDER|7|20|7|3
+B|pirate|stall|Marktstand|Marktstand mit Fässern|HAY_BLOCK|7|7|5|2
+B|pirate|well|Brunnen|Dorfbrunnen mit Dach|WATER_BUCKET|5|9|5|3
+B|pirate|pier|Anlegesteg|Holzsteg mit Laternen|DARK_OAK_BOAT|5|8|17|4
+B|pirate|ship_sloop|Schaluppe|Kleines Segelschiff|OAK_BOAT|9|20|19|3
+B|pirate|ship_galleon|Piratengaleone|Großes Segelschiff mit zwei Masten|NAUTILUS_SHELL|11|24|29|3
+C|cozy|Cozy|CAMPFIRE|<#f4a460>|Gemütliche Fachwerk-Cottages
+B|cozy|cottage_small|Kleines Cottage|Gemütliches Häuschen mit Blumenbeet|SPRUCE_DOOR|9|15|10|3
+B|cozy|cottage_medium|Landhaus|Fachwerkhaus mit Veranda|OAK_DOOR|11|14|11|3
+B|cozy|cottage_two|Doppelstock-Cottage|Zwei Etagen mit Balkon|BRICK_STAIRS|11|17|11|3
+B|cozy|cottage_large|Großes Familienhaus|Drei-Zimmer-Haus mit Garten|BRICKS|13|18|13|3
+B|cozy|cottage_tall|Schmales Stadthaus|Hohes Fachwerkhaus|SPRUCE_LOG|9|22|12|3
+B|cozy|bakery|Bäckerei|Bäckerei mit Öfen und Markise|BREAD|11|13|10|3
+B|cozy|flower_shop|Blumenladen|Kleiner Laden mit Blumen|POPPY|9|13|10|3
+B|cozy|cafe|Gemütliches Café|Café mit Terrasse|CAKE|13|17|12|3
+B|cozy|library|Bibliothek|Bücherhaus mit Leseecke|BOOKSHELF|11|19|13|3
+B|cozy|town_hall|Dorfhalle|Gemeindehaus mit Turm|BELL|15|21|15|3
+B|cozy|smithy|Dorfschmiede|Schmiede mit Anbau|ANVIL|16|16|9|3
+B|cozy|barn|Scheune|Landwirtschaftliche Scheune|HAY_BLOCK|11|16|15|3
+B|cozy|stable|Pferdestall|Stall mit Boxen|SADDLE|13|11|9|2
+B|cozy|windmill|Windmühle|Windmühle mit Flügeln|WHEAT|15|23|9|3
+B|cozy|greenhouse|Gewächshaus|Glashaus mit Beeten|GLASS|9|11|11|2
+B|cozy|chapel|Dorfkirche|Kapelle mit Turm|BELL|9|22|19|3
+B|cozy|stall|Obststand|Marktstand|APPLE|7|7|5|2
+B|cozy|well|Wunschbrunnen|Brunnen|WATER_BUCKET|5|9|5|3
+C|medieval|Mittelalter|IRON_SWORD|<#9aa0a6>|Fachwerk, Stein und Burgen
+B|medieval|house_small|Bauernhaus|Fachwerkhaus für Bauern|OAK_DOOR|9|15|9|3
+B|medieval|house_medium|Handwerkerhaus|Zweistöckiges Fachwerkhaus|OAK_STAIRS|11|17|9|3
+B|medieval|house_merchant|Kaufmannshaus|Großes Fachwerkhaus mit Balkon|OAK_PLANKS|13|17|12|3
+B|medieval|house_tall|Stadthaus|Dreistöckiges Haus|DARK_OAK_LOG|9|22|11|3
+B|medieval|inn|Gasthaus|Gasthaus mit Schankstube|BARREL|15|18|13|3
+B|medieval|town_hall|Rathaus|Stolzes Rathaus mit Turm|BELL|17|21|17|3
+B|medieval|smithy|Schmiede|Schmiede mit Esse|ANVIL|16|16|9|3
+B|medieval|chapel|Kapelle|Steinkirche mit Turm|BELL|9|24|21|3
+B|medieval|shop|Marktladen|Laden mit Markise|EMERALD|11|13|10|3
+B|medieval|stable|Stall|Pferdestall|SADDLE|13|11|9|2
+B|medieval|barn|Kornspeicher|Großer Speicher|WHEAT|11|16|15|3
+B|medieval|watchtower|Wachturm|Steinerner Wachturm|CROSSBOW|7|22|7|3
+B|medieval|keep|Bergfried|Burgturm mit vier Ecktürmen|SHIELD|19|31|19|3
+B|medieval|gatehouse|Torhaus|Burgtor mit zwei Türmen|IRON_BARS|17|20|7|3
+B|medieval|wall|Burgmauer|Mauerabschnitt mit Zinnen|STONE_BRICKS|15|12|5|3
+B|medieval|windmill|Mühle|Getreidemühle|WHEAT|15|23|9|3
+B|medieval|stall|Marktstand|Marktstand|HAY_BLOCK|7|7|5|2
+B|medieval|well|Dorfbrunnen|Brunnen|WATER_BUCKET|5|9|5|3
+C|viking|Wikinger|SHIELD|<#6b8e23>|Langhäuser, Grasdächer, Langschiffe
+B|viking|house_small|Wikingerhütte|Kleines Haus mit Grasdach|SPRUCE_DOOR|9|13|11|3
+B|viking|house_medium|Bauernhof|Mittleres Haus|SPRUCE_STAIRS|11|14|15|3
+B|viking|house_two|Händlerhaus|Zweistöckiges Haus|SPRUCE_PLANKS|11|18|12|3
+B|viking|longhouse|Langhaus|Klassisches Wikinger-Langhaus|MOSSY_COBBLESTONE|11|14|21|3
+B|viking|mead_hall|Methalle|Große Halle des Häuptlings|HONEY_BOTTLE|15|16|27|3
+B|viking|smithy|Schmiede|Wikingerschmiede|ANVIL|16|16|9|3
+B|viking|boathouse|Bootshaus|Offenes Bootshaus|SPRUCE_BOAT|13|15|17|2
+B|viking|longship|Langschiff|Langschiff mit Drachenkopf|SPRUCE_BOAT|9|20|30|3
+B|viking|storehouse|Vorratshaus|Speicher auf Stelzen|BARREL|9|16|15|3
+B|viking|watchtower|Wachturm|Hölzerner Wachturm|CROSSBOW|7|20|7|3
+B|viking|tower_big|Hügelfestung|Starker Turm|SHIELD|9|18|9|3
+B|viking|drying|Fischtrockner|Gestell zum Trocknen|COD|9|7|5|2
+B|viking|runestone|Runenstein|Gedenkstein mit Laternen|CHISELED_STONE_BRICKS|7|9|7|2
+B|viking|stall|Marktstand|Händlerstand|HAY_BLOCK|7|7|5|2
+B|viking|well|Brunnen|Brunnen|WATER_BUCKET|5|9|5|3
+C|modern|Modern|WHITE_CONCRETE|<#cfd8dc>|Beton, Glas und Pools
+B|modern|villa_small|Moderne Villa|Villa mit Glasfront und Pool|WHITE_CONCRETE|15|12|17|3
+B|modern|villa_big|Große Villa|Breite Villa mit Obergeschoss|LIGHT_GRAY_CONCRETE|19|12|19|3
+B|modern|house_flat|Bungalow|Eingeschossiges Haus mit Pool|GLASS|13|8|17|3
+B|modern|apartment|Wohnhaus|Vierstöckiges Apartmenthaus mit Balkonen|IRON_DOOR|13|22|12|3
+B|modern|apartment_tall|Wohnturm|Sechsstöckiges Wohnhaus|GRAY_CONCRETE|11|30|12|3
+B|modern|skyscraper|Wolkenkratzer|Glas-Hochhaus mit Antenne|LIGHT_BLUE_STAINED_GLASS|13|53|13|3
+B|modern|office|Bürogebäude|Dreistöckiges Büro|WHITE_CONCRETE|17|16|13|3
+B|modern|shop|Laden|Moderner Laden mit Markise|EMERALD|15|9|12|3
+B|modern|cafe|Café|Café mit Terrasse|CAKE|13|9|14|3
+B|modern|garage|Garage|Garage mit Werkstatt|MINECART|11|9|13|3
+B|modern|gas|Tankstelle|Tankstelle mit Dach|FURNACE|15|9|13|3
+B|modern|town_hall|Rathaus|Modernes Rathaus mit Säulen|BELL|19|23|16|3
+B|modern|pavilion|Glaspavillon|Pavillon aus Glas|GLASS_PANE|13|9|13|3
+B|modern|stall|Marktstand|Moderner Stand|HAY_BLOCK|7|7|5|2
+C|west|Wild West|CACTUS|<#d2a679>|Saloon, Sheriff und Prärie
+B|west|saloon|Saloon|Saloon mit Tresen und Balkon|BARREL|15|17|17|3
+B|west|sheriff|Sheriff-Büro|Büro mit Gefängniszelle|IRON_BARS|13|13|16|3
+B|west|general_store|Gemischtwarenladen|Laden mit Vorräten|EMERALD|13|13|16|3
+B|west|bank|Bank|Bank mit Tresor|GOLD_INGOT|11|13|15|3
+B|west|hotel|Hotel|Dreistöckiges Hotel|RED_BED|17|21|18|3
+B|west|smithy|Schmiede|Schmiede mit Anbau|ANVIL|16|16|9|3
+B|west|homestead|Farmhaus|Haus mit Veranda und Kakteen|SPRUCE_DOOR|14|14|11|3
+B|west|house_two|Stadthaus|Zweistöckiges Holzhaus|ACACIA_PLANKS|11|17|12|3
+B|west|church|Westernkirche|Weiße Holzkirche mit Turm|BELL|9|22|19|3
+B|west|water_tower|Wasserturm|Wasserturm auf Stelzen|WATER_BUCKET|7|24|8|3
+B|west|barn|Rote Scheune|Ranch-Scheune|HAY_BLOCK|11|16|15|3
+B|west|stable|Pferdestall|Stall mit Boxen|SADDLE|13|11|9|2
+B|west|stall|Marktstand|Marktstand|HAY_BLOCK|7|7|5|2
+B|west|well|Ranchbrunnen|Brunnen|WATER_BUCKET|5|9|5|3
+C|asia|Asiatisch|LANTERN|<#e57373>|Pagoden, Torii und Teehäuser
+B|asia|house_small|Reishaus|Kleines Haus mit Walmdach|JUNGLE_DOOR|11|13|11|3
+B|asia|house_medium|Samuraihaus|Mittleres Haus|DARK_OAK_STAIRS|13|14|13|3
+B|asia|house_two|Händlerhaus|Zweistöckiges Haus|DEEPSLATE_TILES|13|17|11|3
+B|asia|pagoda|Pagode|Fünfstöckige Pagode|LIGHTNING_ROD|15|53|15|3
+B|asia|pagoda_small|Kleine Pagode|Dreistöckige Pagode|LANTERN|11|32|11|3
+B|asia|torii|Torii|Rotes Tor|RED_CONCRETE|9|12|3|2
+B|asia|tea_house|Teehaus|Offenes Teehaus|GREEN_CARPET|13|13|13|2
+B|asia|dojo|Dojo|Trainingshalle|IRON_SWORD|17|14|13|3
+B|asia|shrine|Schrein|Schrein mit Torii und Laternen|BELL|17|13|21|3
+B|asia|castle|Burg|Burg mit Pagodenturm|SHIELD|17|53|17|3
+B|asia|gate|Burgtor|Tor mit Torhaus|IRON_BARS|15|19|9|3
+B|asia|bridge|Bogenbrücke|Rote Bogenbrücke|DARK_OAK_PLANKS|5|9|17|3
+B|asia|garden|Zen-Garten|Garten mit Kirschbaum und Teich|CHERRY_SAPLING|14|10|14|2
+B|asia|stall|Marktstand|Stand mit Laternen|HAY_BLOCK|7|7|5|2
+C|fantasy|Fantasy|AMETHYST_SHARD|<#ba68c8>|Zauberer, Pilze und Kristalle
+B|fantasy|house_small|Elfenhaus|Kleines Haus mit Wirbeldach|WARPED_DOOR|9|12|9|3
+B|fantasy|house_medium|Zauberhaus|Zweistöckiges Haus|BIRCH_STAIRS|11|17|10|3
+B|fantasy|house_large|Gildenhaus|Großes Haus mit Veranda|BIRCH_PLANKS|13|18|13|3
+B|fantasy|fairy_cottage|Feenhäuschen|Rosa Märchenhäuschen mit Blumen|PINK_TULIP|10|12|10|3
+B|fantasy|mushroom_red|Fliegenpilzhaus|Rotes Pilzhaus|RED_MUSHROOM_BLOCK|13|14|13|3
+B|fantasy|mushroom_brown|Steinpilzhaus|Braunes Pilzhaus|BROWN_MUSHROOM_BLOCK|13|14|13|3
+B|fantasy|wizard_tower|Zauberturm|Hoher Magierturm|ENCHANTING_TABLE|11|34|11|3
+B|fantasy|treehouse|Baumhaus|Riesenbaum mit Haus|OAK_LEAVES|13|23|13|3
+B|fantasy|crystal|Kristallspitze|Amethyst-Kristalle|AMETHYST_SHARD|13|22|13|3
+B|fantasy|library|Magische Bibliothek|Bücherhaus mit Zaubertisch|BOOKSHELF|11|18|12|3
+B|fantasy|fountain|Zauberbrunnen|Leuchtender Brunnen|WATER_BUCKET|13|9|13|3
+B|fantasy|portal|Portalbogen|Mystischer Torbogen|OBSIDIAN|9|12|4|2
+B|fantasy|town_hall|Rathaus|Rathaus mit Turm|BELL|17|21|17|3
+B|fantasy|stall|Marktstand|Magischer Stand|HAY_BLOCK|7|7|5|2
